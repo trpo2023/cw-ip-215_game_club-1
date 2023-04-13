@@ -1,4 +1,4 @@
-# Main Info
+# Project Info
 
 ## Members
 - Вячеслав Безносюк - Viacheslav Beznosiuk [(@specnazere)](https://github.com/specnazere)
